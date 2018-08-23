@@ -8,3 +8,4 @@ Docker image to build golang binaries
 
 * git
 * curl 
+* gcc & libc-dev
